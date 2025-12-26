@@ -1,0 +1,98 @@
+--- Scan started at 2025-12-25T19:08:09+03:00 ---
+[FAIL] http://darkfoxaqhfpxkrbt7vxns2z2u2k72sgmqbzeorupaiottw3ecm2wgyd.onion - Error: Get "http://darkfoxaqhfpxkrbt7vxns2z2u2k72sgmqbzeorupaiottw3ecm2wgyd.onion": socks connect tcp 127.0.0.1:9050->darkfoxaqhfpxkrbt7vxns2z2u2k72sgmqbzeorupaiottw3ecm2wgyd.onion:80: dial tcp 127.0.0.1:9050: connectex: No connection could be made because the target machine actively refused it.
+[FAIL] http://dreadytofatroptsdj6io7l3xptbet6onoyno2yv7jicoxknyazubrad.onion - Error: Get "http://dreadytofatroptsdj6io7l3xptbet6onoyno2yv7jicoxknyazubrad.onion": socks connect tcp 127.0.0.1:9050->dreadytofatroptsdj6io7l3xptbet6onoyno2yv7jicoxknyazubrad.onion:80: dial tcp 127.0.0.1:9050: connectex: No connection could be made because the target machine actively refused it.
+[FAIL] https://pitchprash4aqilfr7sbmuwve3pnkpylqwxjbj2q5o4szcfeea6d27yd.onion - Error: Get "https://pitchprash4aqilfr7sbmuwve3pnkpylqwxjbj2q5o4szcfeea6d27yd.onion": socks connect tcp 127.0.0.1:9050->pitchprash4aqilfr7sbmuwve3pnkpylqwxjbj2q5o4szcfeea6d27yd.onion:443: dial tcp 127.0.0.1:9050: connectex: No connection could be made because the target machine actively refused it.
+[FAIL] http://rampjcdlqvgkoz5oywutpo6ggl7g6tvddysustfl6qzhr5osr24xxqqd.onion - Error: Get "http://rampjcdlqvgkoz5oywutpo6ggl7g6tvddysustfl6qzhr5osr24xxqqd.onion": socks connect tcp 127.0.0.1:9050->rampjcdlqvgkoz5oywutpo6ggl7g6tvddysustfl6qzhr5osr24xxqqd.onion:80: dial tcp 127.0.0.1:9050: connectex: No connection could be made because the target machine actively refused it.
+[FAIL] http://dkforestseeaaq2dqz2uflmlsybvnq2irzn4ygyvu53oazyorednviid.onion - Error: Get "http://dkforestseeaaq2dqz2uflmlsybvnq2irzn4ygyvu53oazyorednviid.onion": socks connect tcp 127.0.0.1:9050->dkforestseeaaq2dqz2uflmlsybvnq2irzn4ygyvu53oazyorednviid.onion:80: dial tcp 127.0.0.1:9050: connectex: No connection could be made because the target machine actively refused it.
+[FAIL] http://darknet77vonbqeatfsnawm5jtnoci5z22mxay6cizmoucgmz52mwyad.onion - Error: Get "http://darknet77vonbqeatfsnawm5jtnoci5z22mxay6cizmoucgmz52mwyad.onion": socks connect tcp 127.0.0.1:9050->darknet77vonbqeatfsnawm5jtnoci5z22mxay6cizmoucgmz52mwyad.onion:80: dial tcp 127.0.0.1:9050: connectex: No connection could be made because the target machine actively refused it.
+[FAIL] http://bdfclubiu3gqcs2hjc2glp6w7bt7ghts6uqjxeear54skjaw2qudjwad.onion - Error: Get "http://bdfclubiu3gqcs2hjc2glp6w7bt7ghts6uqjxeear54skjaw2qudjwad.onion": socks connect tcp 127.0.0.1:9050->bdfclubiu3gqcs2hjc2glp6w7bt7ghts6uqjxeear54skjaw2qudjwad.onion:80: dial tcp 127.0.0.1:9050: connectex: No connection could be made because the target machine actively refused it.
+--- Scan started at 2025-12-25T19:08:46+03:00 ---
+[SUCCESS] http://darkfoxaqhfpxkrbt7vxns2z2u2k72sgmqbzeorupaiottw3ecm2wgyd.onion - HTTP 200
+[FAIL] http://dreadytofatroptsdj6io7l3xptbet6onoyno2yv7jicoxknyazubrad.onion - Error: Get "https://dreadytofatroptsdj6io7l3xptbet6onoyno2yv7jicoxknyazubrad.onion/": tls: failed to verify certificate: x509: certificate signed by unknown authority
+[FAIL] https://pitchprash4aqilfr7sbmuwve3pnkpylqwxjbj2q5o4szcfeea6d27yd.onion - Error: Get "https://pitchprash4aqilfr7sbmuwve3pnkpylqwxjbj2q5o4szcfeea6d27yd.onion": tls: failed to verify certificate: x509: certificate signed by unknown authority
+[FAIL] http://rampjcdlqvgkoz5oywutpo6ggl7g6tvddysustfl6qzhr5osr24xxqqd.onion - HTTP 403 Forbidden
+[FAIL] http://dkforestseeaaq2dqz2uflmlsybvnq2irzn4ygyvu53oazyorednviid.onion - Error: Get "http://dkforestseeaaq2dqz2uflmlsybvnq2irzn4ygyvu53oazyorednviid.onion": socks connect tcp 127.0.0.1:9150->dkforestseeaaq2dqz2uflmlsybvnq2irzn4ygyvu53oazyorednviid.onion:80: unknown error unknown code: 240
+[SUCCESS] http://darknet77vonbqeatfsnawm5jtnoci5z22mxay6cizmoucgmz52mwyad.onion - HTTP 200
+[SUCCESS] http://bdfclubiu3gqcs2hjc2glp6w7bt7ghts6uqjxeear54skjaw2qudjwad.onion - HTTP 200
+--- Scan started at 2025-12-25T19:09:44+03:00 ---
+[SUCCESS] http://darkfoxaqhfpxkrbt7vxns2z2u2k72sgmqbzeorupaiottw3ecm2wgyd.onion - HTTP 200
+[FAIL] http://dreadytofatroptsdj6io7l3xptbet6onoyno2yv7jicoxknyazubrad.onion - Error: Get "https://dreadytofatroptsdj6io7l3xptbet6onoyno2yv7jicoxknyazubrad.onion/": tls: failed to verify certificate: x509: certificate signed by unknown authority
+[FAIL] https://pitchprash4aqilfr7sbmuwve3pnkpylqwxjbj2q5o4szcfeea6d27yd.onion - Error: Get "https://pitchprash4aqilfr7sbmuwve3pnkpylqwxjbj2q5o4szcfeea6d27yd.onion": tls: failed to verify certificate: x509: certificate signed by unknown authority
+[FAIL] http://rampjcdlqvgkoz5oywutpo6ggl7g6tvddysustfl6qzhr5osr24xxqqd.onion - HTTP 403 Forbidden
+[FAIL] http://dkforestseeaaq2dqz2uflmlsybvnq2irzn4ygyvu53oazyorednviid.onion - Error: Get "http://dkforestseeaaq2dqz2uflmlsybvnq2irzn4ygyvu53oazyorednviid.onion": socks connect tcp 127.0.0.1:9150->dkforestseeaaq2dqz2uflmlsybvnq2irzn4ygyvu53oazyorednviid.onion:80: unknown error unknown code: 240
+[SUCCESS] http://darknet77vonbqeatfsnawm5jtnoci5z22mxay6cizmoucgmz52mwyad.onion - HTTP 200
+[SUCCESS] http://bdfclubiu3gqcs2hjc2glp6w7bt7ghts6uqjxeear54skjaw2qudjwad.onion - HTTP 200
+--- Scan started at 2025-12-25T19:14:10+03:00 ---
+[SUCCESS] http://darkfoxaqhfpxkrbt7vxns2z2u2k72sgmqbzeorupaiottw3ecm2wgyd.onion - HTTP 200
+[SUCCESS] http://dreadytofatroptsdj6io7l3xptbet6onoyno2yv7jicoxknyazubrad.onion - HTTP 200
+[SUCCESS] https://pitchprash4aqilfr7sbmuwve3pnkpylqwxjbj2q5o4szcfeea6d27yd.onion - HTTP 200
+[FAIL] http://rampjcdlqvgkoz5oywutpo6ggl7g6tvddysustfl6qzhr5osr24xxqqd.onion - HTTP 403 Forbidden
+[FAIL] http://dkforestseeaaq2dqz2uflmlsybvnq2irzn4ygyvu53oazyorednviid.onion - Error: Get "http://dkforestseeaaq2dqz2uflmlsybvnq2irzn4ygyvu53oazyorednviid.onion": socks connect tcp 127.0.0.1:9150->dkforestseeaaq2dqz2uflmlsybvnq2irzn4ygyvu53oazyorednviid.onion:80: unknown error unknown code: 240
+[SUCCESS] http://darknet77vonbqeatfsnawm5jtnoci5z22mxay6cizmoucgmz52mwyad.onion - HTTP 200
+[SUCCESS] http://bdfclubiu3gqcs2hjc2glp6w7bt7ghts6uqjxeear54skjaw2qudjwad.onion - HTTP 200
+--- Scan started at 2025-12-25T19:16:07+03:00 ---
+[SUCCESS] http://darkfoxaqhfpxkrbt7vxns2z2u2k72sgmqbzeorupaiottw3ecm2wgyd.onion - HTTP 200
+[SUCCESS] http://dreadytofatroptsdj6io7l3xptbet6onoyno2yv7jicoxknyazubrad.onion - HTTP 200
+[SUCCESS] https://pitchprash4aqilfr7sbmuwve3pnkpylqwxjbj2q5o4szcfeea6d27yd.onion - HTTP 200
+[FAIL] http://rampjcdlqvgkoz5oywutpo6ggl7g6tvddysustfl6qzhr5osr24xxqqd.onion - HTTP 403 Forbidden
+[FAIL] http://dkforestseeaaq2dqz2uflmlsybvnq2irzn4ygyvu53oazyorednviid.onion - Error: Get "http://dkforestseeaaq2dqz2uflmlsybvnq2irzn4ygyvu53oazyorednviid.onion": socks connect tcp 127.0.0.1:9150->dkforestseeaaq2dqz2uflmlsybvnq2irzn4ygyvu53oazyorednviid.onion:80: unknown error unknown code: 240
+[SUCCESS] http://darknet77vonbqeatfsnawm5jtnoci5z22mxay6cizmoucgmz52mwyad.onion - HTTP 200
+[SUCCESS] http://bdfclubiu3gqcs2hjc2glp6w7bt7ghts6uqjxeear54skjaw2qudjwad.onion - HTTP 200
+--- Scan started at 2025-12-25T19:24:59+03:00 ---
+[SUCCESS] http://darkfoxaqhfpxkrbt7vxns2z2u2k72sgmqbzeorupaiottw3ecm2wgyd.onion - HTTP 200
+[SUCCESS] http://dreadytofatroptsdj6io7l3xptbet6onoyno2yv7jicoxknyazubrad.onion - HTTP 200
+[SUCCESS] https://pitchprash4aqilfr7sbmuwve3pnkpylqwxjbj2q5o4szcfeea6d27yd.onion - HTTP 200
+[FAIL] http://rampjcdlqvgkoz5oywutpo6ggl7g6tvddysustfl6qzhr5osr24xxqqd.onion - HTTP 403 Forbidden
+[FAIL] http://dkforestseeaaq2dqz2uflmlsybvnq2irzn4ygyvu53oazyorednviid.onion - Error: Get "http://dkforestseeaaq2dqz2uflmlsybvnq2irzn4ygyvu53oazyorednviid.onion": socks connect tcp 127.0.0.1:9150->dkforestseeaaq2dqz2uflmlsybvnq2irzn4ygyvu53oazyorednviid.onion:80: unknown error unknown code: 240
+[SUCCESS] http://darknet77vonbqeatfsnawm5jtnoci5z22mxay6cizmoucgmz52mwyad.onion - HTTP 200
+[SUCCESS] http://bdfclubiu3gqcs2hjc2glp6w7bt7ghts6uqjxeear54skjaw2qudjwad.onion - HTTP 200
+--- Scan started at 2025-12-25T19:42:07+03:00 ---
+[SUCCESS] http://darkfoxaqhfpxkrbt7vxns2z2u2k72sgmqbzeorupaiottw3ecm2wgyd.onion - HTTP 200
+[SUCCESS] http://dreadytofatroptsdj6io7l3xptbet6onoyno2yv7jicoxknyazubrad.onion - HTTP 200
+[SUCCESS] https://pitchprash4aqilfr7sbmuwve3pnkpylqwxjbj2q5o4szcfeea6d27yd.onion - HTTP 200
+--- Scan started at 2025-12-25T19:43:37+03:00 ---
+[SUCCESS] http://darkfoxaqhfpxkrbt7vxns2z2u2k72sgmqbzeorupaiottw3ecm2wgyd.onion - HTTP 200
+[SUCCESS] http://dreadytofatroptsdj6io7l3xptbet6onoyno2yv7jicoxknyazubrad.onion - HTTP 200
+[SUCCESS] https://pitchprash4aqilfr7sbmuwve3pnkpylqwxjbj2q5o4szcfeea6d27yd.onion - HTTP 200
+[FAIL] http://rampjcdlqvgkoz5oywutpo6ggl7g6tvddysustfl6qzhr5osr24xxqqd.onion - HTTP 403 Forbidden
+[FAIL] http://dkforestseeaaq2dqz2uflmlsybvnq2irzn4ygyvu53oazyorednviid.onion - Error: Get "http://dkforestseeaaq2dqz2uflmlsybvnq2irzn4ygyvu53oazyorednviid.onion": socks connect tcp 127.0.0.1:9150->dkforestseeaaq2dqz2uflmlsybvnq2irzn4ygyvu53oazyorednviid.onion:80: unknown error unknown code: 240
+[SUCCESS] http://darknet77vonbqeatfsnawm5jtnoci5z22mxay6cizmoucgmz52mwyad.onion - HTTP 200
+[SUCCESS] http://bdfclubiu3gqcs2hjc2glp6w7bt7ghts6uqjxeear54skjaw2qudjwad.onion - HTTP 200
+--- Scan started at 2025-12-26T20:08:47+03:00 ---
+[SUCCESS] http://dreadytofatroptsdj6io7l3xptbet6onoyno2yv7jicoxknyazubrad.onion/ - HTTP 200
+[SUCCESS] http://bfdforumon7c2iprvgeqmdlbczvwahbqgz2y7ft5uodmijfl4tbqvnad.onion/whats-new/ - HTTP 200
+[SUCCESS] http://ransomocmou6mnbquqz44ewosbkjk3o5qjsl3orawojexfook2j7esad.onion/news/ - HTTP 200
+[SUCCESS] http://darkfoxaqhfpxkrbt7vxns2z2u2k72sgmqbzeorupaiottw3ecm2wgyd.onion - HTTP 200
+[FAIL] http://idcforqkaw7bs7pjkl2ludcetrl7v3seyhiv67rou6vc7ojdf55jvsid.onion/ - HTTP 503 Service Temporarily Unavailable
+[SUCCESS] https://pitchprash4aqilfr7sbmuwve3pnkpylqwxjbj2q5o4szcfeea6d27yd.onion/ - HTTP 200
+[SUCCESS] http://darknet77vonbqeatfsnawm5jtnoci5z22mxay6cizmoucgmz52mwyad.onion/ - HTTP 200
+[SUCCESS] http://bdfclubiu3gqcs2hjc2glp6w7bt7ghts6uqjxeear54skjaw2qudjwad.onion/ - HTTP 200
+--- Scan started at 2025-12-26T20:26:05+03:00 ---
+[SUCCESS] http://dreadytofatroptsdj6io7l3xptbet6onoyno2yv7jicoxknyazubrad.onion/ - HTTP 200
+[SUCCESS] http://bfdforumon7c2iprvgeqmdlbczvwahbqgz2y7ft5uodmijfl4tbqvnad.onion/whats-new/ - HTTP 200
+[SUCCESS] http://ransomocmou6mnbquqz44ewosbkjk3o5qjsl3orawojexfook2j7esad.onion/news/ - HTTP 200
+[SUCCESS] http://darkfoxaqhfpxkrbt7vxns2z2u2k72sgmqbzeorupaiottw3ecm2wgyd.onion - HTTP 200
+[FAIL] http://idcforqkaw7bs7pjkl2ludcetrl7v3seyhiv67rou6vc7ojdf55jvsid.onion/ - HTTP 503 Service Temporarily Unavailable
+[SUCCESS] https://pitchprash4aqilfr7sbmuwve3pnkpylqwxjbj2q5o4szcfeea6d27yd.onion/ - HTTP 200
+[SUCCESS] http://darknet77vonbqeatfsnawm5jtnoci5z22mxay6cizmoucgmz52mwyad.onion/ - HTTP 200
+[FAIL] http://bdfclubiu3gqcs2hjc2glp6w7bt7ghts6uqjxeear54skjaw2qudjwad.onion/ - Error: Get "http://bdfclubiu3gqcs2hjc2glp6w7bt7ghts6uqjxeear54skjaw2qudjwad.onion/": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+--- Scan started at 2025-12-26T20:32:51+03:00 ---
+[SUCCESS] https://dreadytofatroptsdj6io7l3xptbet6onoyno2yv7jicoxknyazubrad.onion/d/all?sort=new - HTTP 200
+[SUCCESS] http://bfdforumon7c2iprvgeqmdlbczvwahbqgz2y7ft5uodmijfl4tbqvnad.onion/whats-new/ - HTTP 200
+[SUCCESS] http://ransomocmou6mnbquqz44ewosbkjk3o5qjsl3orawojexfook2j7esad.onion/news/ - HTTP 200
+[SUCCESS] http://darkfoxaqhfpxkrbt7vxns2z2u2k72sgmqbzeorupaiottw3ecm2wgyd.onion - HTTP 200
+[FAIL] http://idcforqkaw7bs7pjkl2ludcetrl7v3seyhiv67rou6vc7ojdf55jvsid.onion/ - HTTP 503 Service Temporarily Unavailable
+[SUCCESS] https://pitchprash4aqilfr7sbmuwve3pnkpylqwxjbj2q5o4szcfeea6d27yd.onion/ - HTTP 200
+[SUCCESS] http://darknet77vonbqeatfsnawm5jtnoci5z22mxay6cizmoucgmz52mwyad.onion/ - HTTP 200
+[SUCCESS] http://bdfclubiu3gqcs2hjc2glp6w7bt7ghts6uqjxeear54skjaw2qudjwad.onion/ - HTTP 200
+--- Scan started at 2025-12-26T20:42:32+03:00 ---
+[SUCCESS] https://dreadytofatroptsdj6io7l3xptbet6onoyno2yv7jicoxknyazubrad.onion/d/all?sort=new - HTTP 200
+[SUCCESS] http://bfdforumon7c2iprvgeqmdlbczvwahbqgz2y7ft5uodmijfl4tbqvnad.onion/whats-new/ - HTTP 200
+[SUCCESS] http://ransomocmou6mnbquqz44ewosbkjk3o5qjsl3orawojexfook2j7esad.onion/news/ - HTTP 200
+[SUCCESS] http://darkfoxaqhfpxkrbt7vxns2z2u2k72sgmqbzeorupaiottw3ecm2wgyd.onion - HTTP 200
+[FAIL] http://idcforqkaw7bs7pjkl2ludcetrl7v3seyhiv67rou6vc7ojdf55jvsid.onion/ - HTTP 503 Service Temporarily Unavailable
+[SUCCESS] https://pitchprash4aqilfr7sbmuwve3pnkpylqwxjbj2q5o4szcfeea6d27yd.onion/ - HTTP 200
+[SUCCESS] http://darknet77vonbqeatfsnawm5jtnoci5z22mxay6cizmoucgmz52mwyad.onion/ - HTTP 200
+[SUCCESS] http://bdfclubiu3gqcs2hjc2glp6w7bt7ghts6uqjxeear54skjaw2qudjwad.onion/ - HTTP 200
+--- Scan started at 2025-12-26T21:19:29+03:00 ---
+[SUCCESS] https://dreadytofatroptsdj6io7l3xptbet6onoyno2yv7jicoxknyazubrad.onion/d/all?sort=new - HTTP 200
